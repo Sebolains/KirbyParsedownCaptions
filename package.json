@@ -1,0 +1,8 @@
+{
+  "name": "kirbyparsedowncaptions",
+  "description": "Parse Markdown images as HTML5 figures with captions in Kirby CMS",
+  "author": "Sebastian Maurino <sebolains@yahoo.com.ar>",
+  "version": "1.0.0",
+  "type": "kirby-plugin",
+  "license": "MIT"
+}
